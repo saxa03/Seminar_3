@@ -16,4 +16,4 @@ int Y2 = int.Parse(Console.ReadLine());
 double x = Math.Pow((X1-X2),2);
 double y = Math.Pow((Y1-Y2),2);
 double d = Math.Sqrt(x+y);
- Console.WriteLine($"{d}");
+ Console.WriteLine($"d = {d:f3}");
