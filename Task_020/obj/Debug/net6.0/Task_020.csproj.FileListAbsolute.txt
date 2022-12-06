@@ -1,0 +1,15 @@
+C:\Users\гоха\Desktop\Seminar_3\Task_020\bin\Debug\net6.0\Task_020.exe
+C:\Users\гоха\Desktop\Seminar_3\Task_020\bin\Debug\net6.0\Task_020.deps.json
+C:\Users\гоха\Desktop\Seminar_3\Task_020\bin\Debug\net6.0\Task_020.runtimeconfig.json
+C:\Users\гоха\Desktop\Seminar_3\Task_020\bin\Debug\net6.0\Task_020.dll
+C:\Users\гоха\Desktop\Seminar_3\Task_020\bin\Debug\net6.0\Task_020.pdb
+C:\Users\гоха\Desktop\Seminar_3\Task_020\obj\Debug\net6.0\Task_020.csproj.AssemblyReference.cache
+C:\Users\гоха\Desktop\Seminar_3\Task_020\obj\Debug\net6.0\Task_020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\гоха\Desktop\Seminar_3\Task_020\obj\Debug\net6.0\Task_020.AssemblyInfoInputs.cache
+C:\Users\гоха\Desktop\Seminar_3\Task_020\obj\Debug\net6.0\Task_020.AssemblyInfo.cs
+C:\Users\гоха\Desktop\Seminar_3\Task_020\obj\Debug\net6.0\Task_020.csproj.CoreCompileInputs.cache
+C:\Users\гоха\Desktop\Seminar_3\Task_020\obj\Debug\net6.0\Task_020.dll
+C:\Users\гоха\Desktop\Seminar_3\Task_020\obj\Debug\net6.0\refint\Task_020.dll
+C:\Users\гоха\Desktop\Seminar_3\Task_020\obj\Debug\net6.0\Task_020.pdb
+C:\Users\гоха\Desktop\Seminar_3\Task_020\obj\Debug\net6.0\Task_020.genruntimeconfig.cache
+C:\Users\гоха\Desktop\Seminar_3\Task_020\obj\Debug\net6.0\ref\Task_020.dll
